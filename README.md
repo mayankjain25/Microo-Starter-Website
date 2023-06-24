@@ -1,7 +1,7 @@
 # CI/CD Pipeline with Jenkins
 ![CI/CD Pipeline Workflow](https://i.postimg.cc/V6JzZSVs/white-modern-creative-Main-idea-Graphic-organizer.png)
 
-This repository contains a simple CI/CD pipeline implemented using Jenkins. The pipeline is designed to automatically deploy a static HTML/CSS file to a Docker container and host it on port 8085.
+This repository contains a simple CI/CD pipeline implemented using Jenkins. The pipeline is designed to automatically deploy a static HTML/CSS file to a Docker container and host it on port `8085`.
 
 ## Prerequisites
 
